@@ -1,1 +1,1 @@
-Stanford CS224N 2024Spring Assignment personal solution  
+My solution for Stanford CS224N (Spring 2024)
