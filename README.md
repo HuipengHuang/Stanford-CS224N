@@ -1,1 +1,1 @@
-My solution for Stanford CS224N (Spring 2024)
+My solution for Stanford CS224N assignments (Spring 2024) Written assignments are not included.
